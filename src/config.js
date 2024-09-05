@@ -1,0 +1,2 @@
+export const VITE_API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "https://caring-perfection-production.up.railway.app/api/";
+export const VITE_JITSI_APP_ID = import.meta.env.VITE_JITSI_APP_ID || "vpaas-magic-cookie-82c9ba6e7c13412683b9a2d4da436d59";
